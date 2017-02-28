@@ -7,3 +7,8 @@ int main() {
     std::cin >> n;
     std::cout << factorial(n);
 }
+
+int factorial(int n)
+{
+    return n;
+}
